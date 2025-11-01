@@ -1,4 +1,4 @@
 # rafiqwithgoki
 # A I`m Sigma and i ..
-![Rafiq](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRlMmw0ZTFwN3A3MDBpemM3c3V0OTh4Znh4NndkdHoyN3ZxcjhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phmwMLY1kkkMg/giphy.gif
+![Rafiq](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDlyZ3Z6MW5rM3IybmNjeHI5MGt2cHk3M200d3gzcmcxYXBlcTV3ZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/7702jh3NsloOseiDUk/giphy.gif
 )
